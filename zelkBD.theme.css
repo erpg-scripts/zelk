@@ -14,11 +14,12 @@
 @import url(https://schnensch0.github.io/zelk/main.css);
 @import url(https://discord-custom-covers.github.io/usrbg/dist/usrbg.css);
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=JetBrains+Mono&display=swap');
 /*--------------COLORS---------------*/
 /*------remove / and * to apply------*/
 /* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/blue.css); */
 /* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/green.css); */
-/* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/gray.css); */
+@import url(https://raw.githack.com/schnensch0/zelk/main/colors/gray.css);
 /* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/orange.css); */
 /* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/purple.css); */
 /* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/red.css); */
